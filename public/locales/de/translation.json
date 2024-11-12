@@ -1,0 +1,7 @@
+{
+    "greeting": "Hallo <1>{{userName}}</1> Willkommen!",
+    "description": {
+        "welcome": "Willkommen zurück, <1>{{userName}}</1>! Sie können die Sprache ändern, aber der Spaß bleibt derselbe.",
+        "funFact": "Wussten Sie? Das Lernen einer neuen Sprache kann Ihr Gedächtnis verbessern und sogar den kognitiven Verfall verzögern!"
+    }
+}
