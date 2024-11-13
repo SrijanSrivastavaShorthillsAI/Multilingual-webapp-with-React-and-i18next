@@ -11,7 +11,7 @@ i18n
     .init({
         debug: true,
         returnObjects: true,
-        lng: "en",
+        // lng: "en",
         // resources can be removed after adding local/hi/translation.json
         // resources: {
         //     en: {
